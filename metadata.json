@@ -1,0 +1,6 @@
+{
+  "name": "DRAFER Intelligence",
+  "description": "Plataforma Corporativa de Business Intelligence, Gestão Comercial e Inteligência Financeira do Grupo Drafer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
